@@ -321,7 +321,8 @@ By Bootstrap…
 - -3.790/1.4678, significant local treatment effect
 
 ```
-example code for bootstrapping with polynomial regression 
+# example code for bootstrapping with polynomial regression
+
 n=1000
 late = []
 first_, second_ = 0, 0
