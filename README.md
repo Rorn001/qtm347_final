@@ -1,5 +1,6 @@
 # QTM347 Final Project
 Fall 2023
+
 Research Question: **How does class size affect academic performance: Evidence from primary schools in Israel**
 
 Parents and teachers generally report that they prefer smaller classes because those involved with teaching believe that smaller classes promote student learning and offer a more pleasant environment. We will use the data of the 4th and 5th grade students of more than 2000 primary school classes in Israel. We want to use machine learning models to assess the relationship between class size and academic performance in primary school and compare the results from the paper “Using Maimonides’ Rule to Estimate the Effect of Class Size on Scholastic Achievement”, which uses linear models.
